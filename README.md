@@ -1,3 +1,4 @@
+![cover]("C:\Users\ronak\OneDrive\Pictures\Screenshots\slotpot.png")
 # Slotpot - Slot Machine Game
 
 ## Overview
